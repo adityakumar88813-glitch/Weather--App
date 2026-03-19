@@ -43,7 +43,7 @@ This app fetches real-time weather data from an API and displays temperature, hu
 <img src="home.jpeg" width="45%">
 
 <img src="forSearch.jpeg" width="45%">
-<img src="Search.jpeg" width="45%">
+<img src="search..jpeg" width="45%">
 
 
 
