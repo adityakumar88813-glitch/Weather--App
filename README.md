@@ -37,7 +37,13 @@ This app fetches real-time weather data from an API and displays temperature, hu
 
 - OpenWeatherMap API
 
-📸 Screenshot
+## 📸 Screenshots
+
+<img src="homepage.jpeg" width="45%">
+<img src="home.jpeg" width="45%">
+
+<img src="forSearch.jpeg" width="45%">
+<img src="Search.jpeg" width="45%">
 
 
 
